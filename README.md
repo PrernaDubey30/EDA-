@@ -11,6 +11,7 @@ This project focuses on performing Exploratory Data Analysis (EDA) on a sales da
 
 ## Objective:
 1)To improve customer experience by analysing sales data 
+
 2)Increase revenue based on analysed data
 
 ## Tools & Technologies Used
