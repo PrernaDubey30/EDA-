@@ -17,7 +17,11 @@ This project focuses on performing Exploratory Data Analysis (EDA) on a sales da
 ## Tools & Technologies Used
 
 -Python
+
 -Pandas (Data Manipulation & Cleaning)
+
 -NumPy (Numerical Computation)
+
 -Matplotlib & Seaborn (Data Visualization)
+
 -Jupyter Notebook (Interactive Computing)
